@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343758814221",
+    "firebase_url": "https://traficccamera.firebaseio.com",
+    "project_id": "traficccamera",
+    "storage_bucket": "traficccamera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343758814221:android:1eb222e03b8135c2c72944",
+        "android_client_info": {
+          "package_name": "com.example.tracfficcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343758814221-t7bttjepfigkg3dehd3eg45f7um7qcib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGV1gS-EoFS3PDsq08ShQrXIFpHcDEu94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343758814221-t7bttjepfigkg3dehd3eg45f7um7qcib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
